@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://club-pasptel.github.io/club-pasptel.github.io/gallery/"  
-  - JOURNAL: "https://club-pasptel.github.io/journal/"
-  - ABOUT: "https://club-pasptel.github.io/photorama/about/"
+  - GALLERY: "https://club-pastel.github.io/club-pasptel.github.io/gallery/"  
+  - JOURNAL: "https://club-pastel.github.io/journal/"
+  - ABOUT: "https://club-pastel.github.io/photorama/about/"
 
 # All translation keys
 translations:
