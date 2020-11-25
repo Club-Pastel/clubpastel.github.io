@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://club-pastel.github.io/gallery/"  
-  - JOURNAL: "https://club-pastel.github.io/journal/"
-  - ABOUT: "https://club-pastel.github.io/about/"
+  - GALERÍA: "https://club-pastel.github.io/gallery/"  
+  - SERVICIOS: "https://club-pastel.github.io/journal/"
+  - NOSOTROS: "https://club-pastel.github.io/about/"
 
 # All translation keys
 translations:
