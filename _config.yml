@@ -1,7 +1,7 @@
 # Site settings
 title: CLUBPASTEL
 email: ""
-description: "Photo Journal"
+description: "Sitio oficial Club Pastel"
 url: "https://clubpastel.github.io"
 baseurl: "/"
 facebook_username: ""
@@ -18,7 +18,7 @@ owner:
   name:   clubpastel
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Club pastel
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://clubpasptel.github.io/photorama/gallery/"  
-  - JOURNAL: "https://clubpasptel.github.io/photorama/journal/"
-  - ABOUT: "https://clubpasptel.github.io/photorama/about/"
+  - GALLERY: "https://club-pasptel.github.io/club-pasptel.github.io/gallery/"  
+  - JOURNAL: "https://club-pasptel.github.io/journal/"
+  - ABOUT: "https://club-pasptel.github.io/photorama/about/"
 
 # All translation keys
 translations:
